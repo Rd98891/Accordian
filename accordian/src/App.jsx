@@ -8,7 +8,7 @@ function App() {
 
   return (
       <div className='flex justify-center items-center flex-col'>
-          <h1 className="text-3xl font-bold underline">Sali Chutiya aurat</h1>
+          <h1 className="text-3xl font-bold underline">What a wonderful day</h1>
           <img src={ReactLogo} alt='react-logo'/>
       </div>
   )
